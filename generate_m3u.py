@@ -4,7 +4,7 @@ import os
 BASE_URL = "https://www.atv.com.tr/eskiya-dunyaya-hukumdar-olmaz/"
 PROXY_PREFIX = "https://stream-extractor.koprulu.workers.dev/?url="
 EXT = "&ext=mp4"
-COVER_ART = "https://iaatv.tmgrup.com.tr/71709e/500/268/0/0/500/268?u=https://iatv.tmgrup.com.tr/2024/09/24/500x268/1727165994263.jpg"
+COVER_ART = "https://iaatv.tmgrup.com.tr/63e729/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/10/26/500x268/1635252493405.jpg"
 CATEGORY = "EDHO"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
