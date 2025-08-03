@@ -22,7 +22,7 @@ jobs:
     - name: Create last_episode file if not exists
       run: |
         if [ ! -f "last_episode.txt" ]; then
-          echo "194" > last_episode.txt
+          echo "199" > last_episode.txt
         fi
     
     - name: Generate M3U
