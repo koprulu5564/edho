@@ -13,7 +13,7 @@ def get_last_episode():
         with open("last_episode.txt", "r") as f:
             return int(f.read().strip())
     except:
-        return 194
+        return 199
 
 def check_episode(episode):
     try:
