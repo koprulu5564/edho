@@ -3,7 +3,7 @@ import os
 
 # Dizi Ayarları
 BASE_URL = "https://www.atv.com.tr/eskiya-dunyaya-hukumdar-olmaz/"
-PROXY_PREFIX = "https://stream-extractor.koprulu.workers.dev/?url="
+PROXY_PREFIX = "https://stream-extractor2.koprulu.workers.dev/?url="
 EXT = "&ext=mp4"
 COVER_ART = "https://iaatv.tmgrup.com.tr/63e729/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/10/26/500x268/1635252493405.jpg"
 CATEGORY = "EDHO"
